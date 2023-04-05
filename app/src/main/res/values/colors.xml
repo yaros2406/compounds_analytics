@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="primary">@color/purple_500</color>
+    <color name="accent">@color/purple_500</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="black">#FF000000</color>
+    <color name="atom_connection">#96999C</color>
+    <color name="color_background_scene">#4C5053</color>
+    <color name="transparent">#0000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="cardBg">#C5B2E0</color>
+    <color name="toolbarBg">#AEFFFFFF</color>
+    <color name="app_background">#1B0050</color>
+
+    <color name="colorText">@color/black</color>
+
+    <color name="colorAtomH">@color/white</color>
+    <color name="colorAtomC">@color/black</color>
+    <color name="colorAtomN">#2233FF</color>
+    <color name="colorAtomO">#FF2200</color>
+    <color name="colorAtomF">#1FF01F</color>
+    <color name="colorAtomCL">@color/colorAtomF</color>
+    <color name="colorAtomBR">#992200</color>
+    <color name="colorAtomI">#6600BB</color>
+    <color name="colorAtomXE">#00FFFF</color>
+    <color name="colorAtomP">#FF9900</color>
+    <color name="colorAtomS">#F8E00B</color>
+    <color name="colorAtomB">#FFAA77</color>
+    <color name="colorAtomGA">@color/colorAtomB</color>
+    <color name="colorAtomLI">#7700FF</color>
+    <color name="colorAtomNA">@color/colorAtomLI</color>
+    <color name="colorAtomK">@color/colorAtomLI</color>
+    <color name="colorAtomRB">@color/colorAtomLI</color>
+    <color name="colorAtomCS">@color/colorAtomLI</color>
+    <color name="colorAtomMG">#007700</color>
+    <color name="colorAtomCA">@color/colorAtomMG</color>
+    <color name="colorAtomSR">@color/colorAtomMG</color>
+    <color name="colorAtomBA">@color/colorAtomMG</color>
+    <color name="colorAtomFE">#DD7700</color>
+    <color name="colorAtomMO">#DD77FF</color>
+    <color name="colorAtomV">@color/colorAtomMO</color>
+    <color name="colorAtomAU">@color/colorAtomMO</color>
+    <color name="colorAtomCO">@color/colorAtomMO</color>
+    <color name="colorAtomCU">@color/colorAtomMO</color>
+    <color name="colorAtomAS">@color/colorAtomMO</color>
+    <color name="colorAtomCD">@color/colorAtomMO</color>
+    <color name="colorAtomEU">@color/colorAtomMO</color>
+    <color name="colorAtomHG">@color/colorAtomMO</color>
+    <color name="colorAtomU">@color/colorAtomMO</color>
+    <color name="colorAtomLA">@color/colorAtomMO</color>
+    <color name="colorAtomMN">@color/colorAtomMO</color>
+    <color name="colorAtomSE">@color/colorAtomMO</color>
+    <color name="colorAtomNI">@color/colorAtomMO</color>
+    <color name="colorAtomPB">@color/colorAtomMO</color>
+    <color name="colorAtomPD">@color/colorAtomMO</color>
+    <color name="colorAtomPT">@color/colorAtomMO</color>
+    <color name="colorAtomW">@color/colorAtomMO</color>
+    <color name="colorAtomRH">@color/colorAtomMO</color>
+    <color name="colorAtomRU">@color/colorAtomMO</color>
+    <color name="colorAtomTB">@color/colorAtomMO</color>
+    <color name="colorAtomTL">@color/colorAtomMO</color>
+    <color name="colorAtomYB">@color/colorAtomMO</color>
+    <color name="colorAtomZN">@color/colorAtomMO</color>
+    <color name="colorOther">@color/colorAtomMO</color>
+</resources>
